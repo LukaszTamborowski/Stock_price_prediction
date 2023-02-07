@@ -17,4 +17,5 @@ The model is then evaluated using metrics such as accuracy, mean squared error, 
 ### Deployment
 Finally, the model is deployed and made available to users who can use the model to predict the stock price of a particular company. This may involve creating a web application or a mobile application that allows users to input the necessary information and receive a prediction.
 
-!(https://github.com/LukaszTamborowski/Stock_price_prediction/tree/main/Stock_price_prediction/Stock_price_predicion.png)
+![Stock_price_predicion](https://user-images.githubusercontent.com/124706381/217319033-8e022501-5fb4-47b0-8558-bbec70024b80.png)
+_predicion.png)
